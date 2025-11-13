@@ -24,7 +24,7 @@ Experienced in **test-driven development** using **JUnit** and **Mockito**, alon
 
 ### 💼 Professional Experience  
 
-#### 🏢 **Infosys Ltd. — Associate Consultant**  
+#### 🏢 **Infosys Ltd. — Senior Associate Consultant**  
 📍 Noida, Uttar Pradesh | *2024 – Present*  
 
 - Optimized **PostgreSQL** queries and stored procedures, reducing execution time by ~35%.  
