@@ -25,7 +25,7 @@ Experienced in **test-driven development** using **JUnit** and **Mockito**, alon
 ### 💼 Professional Experience  
 
 #### 🏢 **Infosys Ltd. — Senior Associate Consultant**  
-📍 Noida, Uttar Pradesh | *2024 – Present*  
+📍 Bengalore, Uttar Pradesh | *2024 – Present*  
 
 - Optimized **PostgreSQL** queries and stored procedures, reducing execution time by ~35%.  
 - Migrated enterprise systems from **Oracle → PostgreSQL**, improving performance and maintainability.  
@@ -35,7 +35,7 @@ Experienced in **test-driven development** using **JUnit** and **Mockito**, alon
 - Leveraged **Gradle, Maven, MyBatis** for efficient build and ORM management.  
 
 #### 🧑‍💻 **Happiest Minds Technologies — Software Engineer**  
-📍 Noida, Uttar Pradesh | *2021 – 2024*  
+📍 Bengalore, Uttar Pradesh | *2021 – 2024*  
 
 - Developed robust **RESTful APIs** for microservices and frontend integration using **Spring Boot**.  
 - Implemented **Redis caching**, improving API response performance by **40%**.  
